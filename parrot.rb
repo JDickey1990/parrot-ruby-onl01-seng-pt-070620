@@ -3,7 +3,7 @@
 def parrot (phrase="Squawk!")
    puts phrase
    "phrase"
-   return "Squawk!"
+   return phrase
 end
 parrot
 parrot ("Pretty Bird!")
